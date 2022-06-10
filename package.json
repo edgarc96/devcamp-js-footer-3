@@ -1,0 +1,25 @@
+{
+  "name": "testingapp3",
+  "version": "0.1.0",
+  "description": "use this to generate footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarc96/devcamp-js-footer-3.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "edgar <edgarcabrera33@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgarc96/devcamp-js-footer-3/issues"
+  },
+  "homepage": "https://github.com/edgarc96/devcamp-js-footer-3#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
